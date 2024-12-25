@@ -1,4 +1,4 @@
-# 25_12_2024--1068_Product_Sales_Analysis_I
+# [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i?envType=study-plan-v2&envId=top-sql-50)
 - ### Intuition
     The task requires retrieving specific details (`product_name`, `year`, and `price`) about each sale from the given `Sales` and `Product` tables. The tables are connected through the `product_id` column, which acts as a foreign key in the `Sales` table, referencing the `Product` table. This relationship allows us to combine data from both tables to get the desired output.
 
